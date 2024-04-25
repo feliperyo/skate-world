@@ -36,6 +36,9 @@ main {
     max-width: 720px;
     margin: 0 auto;
     padding: 0 20px;
+    animation: appear 1ms ease-in-out forwards;
+    animation-timeline: view();
+    animation-range: cover 0% cover 50%;
 }
 
 section.module p {
@@ -123,4 +126,24 @@ section.module.parallax-4 {
 
 section.module.parallax-5 {
     background-image: url(./assets/drop-sk8-img.jpg);
+}
+
+.title-1,
+.title-2,
+.title-3,
+.title-4,
+.title-5 {
+    visibility: hidden;
+}
+
+@keyframes appear {
+    from {
+        opacity: 0;
+        translate: -100vw 0;
+    }
+
+    to {
+        opacity: 1;
+        translate: 0 0;
+    }
 }
