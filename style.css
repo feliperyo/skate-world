@@ -21,6 +21,10 @@ h1 {
     text-shadow: #fff 0 0 25px;
 }
 
+span {
+    color: #000;
+}
+
 .wrapper {
     width: 100%;
     margin: 0 auto;
@@ -155,6 +159,5 @@ section.module.parallax-5 {
 
     span {
         font-size: 44px;
-        color: #000;
     }
 }
