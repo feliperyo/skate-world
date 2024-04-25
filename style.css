@@ -42,7 +42,7 @@ main {
     padding: 0 20px;
     animation: appear 1ms ease-in-out forwards;
     animation-timeline: view();
-    animation-range: cover 0% cover 50%;
+    animation-range: cover 0% cover 40%;
 }
 
 section.module p {
