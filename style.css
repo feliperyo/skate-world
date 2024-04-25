@@ -147,3 +147,14 @@ section.module.parallax-5 {
         translate: 0 0;
     }
 }
+
+@media screen and (max-width: 500px) {
+    section.module.parallax-2 {
+        background-image: url(./assets/smileman-sk8-img-mobile.jpg);
+    }
+
+    span {
+        font-size: 44px;
+        color: #000;
+    }
+}
