@@ -2,7 +2,7 @@
   Skate World</h1>
 <br>
 <h3 align="center">Estudo de animações com CSS e JavaScript.</h3>
-<p align="center">Projeto desenvolvido com HTML, CSS e Java Script.</p>
+<p align="center">Projeto desenvolvido com HTML, CSS e JavaScript.</p>
 <br>
 <br>
 
