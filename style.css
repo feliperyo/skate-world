@@ -103,6 +103,7 @@ section.module.parallax::after {
 .icons {
     display: flex;
     gap: 10px;
+    height: 40px;
 }
 
 a img:hover {
