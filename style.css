@@ -114,23 +114,23 @@ a img:hover {
 }
 
 section.module.parallax-1 {
-    background-image: url(./assets/air-park-sk8-img.jpg);
+    background-image: url(./assets/air-park-sk8-img.webp);
 }
 
 section.module.parallax-2 {
-    background-image: url(./assets/smileman-sk8-img.jpg);
+    background-image: url(./assets/smileman-sk8-img.webp);
 }
 
 section.module.parallax-3 {
-    background-image: url(./assets/friends-sk8-img.jpg);
+    background-image: url(./assets/friends-sk8-img.webp);
 }
 
 section.module.parallax-4 {
-    background-image: url(./assets/community-sk8-img.jpg);
+    background-image: url(./assets/community-sk8-img.webp);
 }
 
 section.module.parallax-5 {
-    background-image: url(./assets/drop-sk8-img.jpg);
+    background-image: url(./assets/drop-sk8-img.webp);
 }
 
 .title-1,
@@ -155,7 +155,7 @@ section.module.parallax-5 {
 
 @media screen and (max-width: 500px) {
     section.module.parallax-2 {
-        background-image: url(./assets/smileman-sk8-img-mobile.jpg);
+        background-image: url(./assets/smileman-sk8-img-mobile.webp);
     }
 
     span {
