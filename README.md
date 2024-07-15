@@ -2,7 +2,8 @@
   Skate World</h1>
 <br>
 <h3 align="center">Estudo de animações com CSS e JavaScript.</h3>
-<p align="center">Projeto desenvolvido com HTML, CSS e JavaScript.</p>
+<h4 align="center">Projeto desenvolvido com HTML, CSS e JavaScript.</h4>
+<p align="center">Nota: Vencedor do Concurso de Projetos DevClub de Abril com 64,45% dos votos.</p>
 <br>
 <br>
 
